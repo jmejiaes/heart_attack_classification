@@ -1,4 +1,4 @@
-# Heart Attack Analisis and Prediction
+# Heart Disease Analisis and Prediction
 Solo en Estados Unidos, cada 33 segundos muere una persona a causa de problemas cardiovasulares, y 1 de cada 5 ataques al corazón ocurre de manera silenciosa, es decir, el daño está hecho sin que la persona alcance a enterarse. 
 
 El Centro de Control y Prevención de Enfermedades Estadounidense explica que existe una gran cantidad de condiciones de salud que pueden representar factores de riesgo relacionados a problemas cardiovasculares. Entre ellos están, desde los niveles de presión y colesterol, hasta la edad y estilo de vida de las personas.
